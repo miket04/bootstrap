@@ -30,8 +30,16 @@ div{
     
 }
 
-.header{
+.why{
+    font-size: 48px;
+    font-family: 'Spline Sans', sans-serif;
+    font-weight: bold;
     text-decoration-line: underline;
+}
+
+.header{
+    font-style:italic;
+    padding-bottom: 20px;
 }
 
 .features{
@@ -64,13 +72,15 @@ div{
     color: #FEADA9;
     font-family: 'Spline Sans', sans-serif;
     text-align: center;
-}
-.header2{
     text-decoration-line: underline;
     text-decoration-color: white;
+}
+.header2{
+    font-style:italic;
     color: #FEADA9;
     font-family: 'Spline Sans', sans-serif;
     text-align: center;
+   
 }
 
 .info{
@@ -84,4 +94,9 @@ div{
     max-height: 600px;
     max-width: 600px;
     padding-bottom: 20px;
+}
+
+.col{
+    text-align: center;
+
 }
